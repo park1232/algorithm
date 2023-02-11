@@ -10,5 +10,8 @@ public class P1546 {
         for(int i = 0; i < N; i++) {
             A[i] = sc.nextInt();
         }
+        long sum = 0;
+        long max = 0;
+
     }
 }
