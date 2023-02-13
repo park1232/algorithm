@@ -17,5 +17,6 @@ public class P1546 {
             sum = sum + A[i];
         }
         System.out.println(sum * 100.0 / max / N);
+        System.out.println(sum * 100.0 / max / N);
     }
 }
