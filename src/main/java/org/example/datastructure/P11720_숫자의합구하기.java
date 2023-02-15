@@ -1,8 +1,8 @@
-package org.example;
+package org.example.datastructure;
 
 import java.util.Scanner;
 
-public class P11720 {
+public class P11720_숫자의합구하기 {
     public static void main(String[] args) {
         //숫자의 합 구하기
         Scanner sc = new Scanner(System.in);
