@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class P2018_연속된자연수의합구하기 {
     public static void main(String[] args) {
+        // 투 포인터
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
         int count = 1;
