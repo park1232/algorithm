@@ -1,4 +1,4 @@
-package org.example.datastructure;
+package org.example.sort;
 
 import java.util.Scanner;
 
