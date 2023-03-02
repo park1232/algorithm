@@ -17,6 +17,7 @@ public class P11724_연결요소의개수구하기 {
         //        해당 문제 역시 6 5 이런식으로 두개의 데이터가 한줄에 있는 형태입니다.
         // StringTokenizer는 공백단위로 데이터를 가공하여 줍니다.
 
+
         // StringTokenizer st = new StringTokenizer(br.readLine());
         // int n = Integer.parseInt(st.nextToken());
         // int m = Integer.parseInt(st.nextToken());
