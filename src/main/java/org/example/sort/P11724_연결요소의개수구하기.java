@@ -18,6 +18,7 @@ public class P11724_연결요소의개수구하기 {
         // StringTokenizer는 공백단위로 데이터를 가공하여 줍니다.
 
 
+
         // StringTokenizer st = new StringTokenizer(br.readLine());
         // int n = Integer.parseInt(st.nextToken());
         // int m = Integer.parseInt(st.nextToken());
