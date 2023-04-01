@@ -32,6 +32,7 @@ public class P11724_연결요소의개수구하기 {
 
 
 
+
         // StringTokenizer st = new StringTokenizer(br.readLine());
         // int n = Integer.parseInt(st.nextToken());
         // int m = Integer.parseInt(st.nextToken());
